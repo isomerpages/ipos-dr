@@ -13,33 +13,18 @@ sections:
         button: FIND OUT MORE
         url: /overview/
         key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
+            - title: Get Legislation Updates
+              description: Keep abreast of the latest legal developments
               url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
+            - title: Find an Expert
+              description: Search the database for various experts  
               url: https://gmail.com
-            - title: Locate an Expert
-              description: Page A is important too
+            - title: Book a Legal Clinic
+              description: Get preliminary advice from a professional lawyer for better decision-making.
               url: /privacy/
-    - infopic:
-        title: Resources for Professionals
-        subtitle: 
-        description: I am a Professional looking to keep abreast of IP Dispute Resolution practices in SG
-        button: Learn More
-        url: /core-values/
-        image: /images/professionalism.png
-        alt: Members of the Ministry of ABC in suits
-    - infopic:
-        title: Resources for Businesses
-        subtitle:
-        description: I am a  Business OWner looking to understand how to resolve my IP disputes in SG. 
-        button: Learn More
-        url: /core-values/
-        image: /images/professionalism.png
     - resources:
         title: Latest Developments in IP Dispute Resolution 
-        subtitle: View all
-        button: View More
+        subtitle: 
+        button: View all
 ---
 
