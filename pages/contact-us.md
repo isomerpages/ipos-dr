@@ -9,8 +9,7 @@ locations:
         - 1 Paya Lebar Link, #11-03
         - PLQ 1, Paya Lebar Quarter
         - Singapore 408533
-     maps_link: https://www.onemap.sg/main/v2/?lat=1.31767131802136&lng=103.893809329551
-    operating_hours:
+     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 5.30pm
         description: Closed on Public Holidays
