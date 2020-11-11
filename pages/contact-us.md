@@ -15,17 +15,10 @@ locations:
         description: Closed on Public Holidays
       - days: New Year's Eve, Chinese New Year's Eve, Christmas Eve
         time: 8.30am - 1.00pm
-  - title: Singapore Mediation Centre
-    address:
-        - 28 Maxwell Road
-        - #03-10/11 Maxwell Chambers Suites
-        - Singapore 069120
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
   - title: General Enquiries & Feedback
     content:
     - phone: +65 6339 8616
     - email:  ipos_enquiry@ipos.gov.sg
     - other: With effect from 30 July 2019, IPOS will operate strictly on a by-appointment basis. Please <a href ="https://www.ipos.gov.sg/e-services/e-appointment/make-an-appointment">click here</a> to make an appointment.
- 
 ---
