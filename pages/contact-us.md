@@ -25,7 +25,7 @@ contacts:
     content:
     - phone: +65 6339 8616
     - email: ipos_enquiry@ipos.gov.sg
-    - other: With effect from 30 July 2019, IPOS will operate strictly on a by-appointment basis. Please <a href:"https://www.ipos.gov.sg/e-services/e-appointment/make-an-appointment">click here</a>click here to make an appointment.
+    - other: With effect from 30 July 2019, IPOS will operate strictly on a by-appointment basis. Please <a href="https://www.ipos.gov.sg/e-services/e-appointment/make-an-appointment">click here</a> to make an appointment.
   - title: Careers
     content:
     - email: careers@abc.gov.sg
