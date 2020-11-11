@@ -15,10 +15,11 @@ locations:
         description: Closed on Public Holidays
       - days: New Year's Eve, Chinese New Year's Eve, Christmas Eve
         time: 8.30am - 1.00pm
-  - title: Branch Office
+  - title: Singapore Mediation Centre
     address:
-        - 109 North Bridge Road
-        - Singapore 179097
+        - 28 Maxwell Road
+        - #03-10/11 Maxwell Chambers Suites
+        - Singapore 069120
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
   - title: General Enquiries & Feedback
