@@ -2,31 +2,25 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Intellectual Property Office of Singapore
 locations:
-  - title: Main Office
+  - title: Intellectual Property Office of Singapore
     address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+        - 1 Paya Lebar Link, #11-03
+        - PLQ 1, Paya Lebar Quarter
+        - Singapore 408533 
     operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+      - days: Mon - Fri excluding public holidays
+        time: 8.30am - 5.30pm
+        description: With effect from 30 July 2019, IPOS will operate strictly on a by-appointment basis. Please click here to make an appointment.
+      - days: New Year's Eve, Chinese New Year's Eve, Christmas Eve:
+        time: 8.30am - 1.00pm
+  
+  maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+    - phone: +65 6339 8616
+    - email: ipos_enquiry@ipos.gov.sg 
+    
 ---
