@@ -7,9 +7,9 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: Hero title
+        title: IP Dispute Resolution in Singapore
         subtitle: Hero subtitle
-        background: /images/hero-banner.png
+        background: file.go.gov.sg/banner.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
