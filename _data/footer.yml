@@ -6,3 +6,8 @@ social_media:
     linkedin: https://www.linkedin.com/company/intellectual-property-office-of-singapore/
     facebook: https://www.facebook.com/IPOSG/
     youtube: https://www.youtube.com/user/IPOSsingapore
+privacy_policy: /privacy-policy/
+terms_of_use: /terms-of-use/
+links:
+  - title: Data Protection Policy
+    url: /data-protection-policy
