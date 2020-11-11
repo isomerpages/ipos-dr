@@ -10,7 +10,7 @@ sections:
         title: IP Dispute Resolution in Singapore
         subtitle: Hero subtitle
         background: /images/banner.jpg
-        button: Contact Us
+        button: FIND OUT MORE
         url: /contact-us/
         key_highlights:
             - title: Highlight A
