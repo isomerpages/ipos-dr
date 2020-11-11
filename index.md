@@ -7,11 +7,11 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
     - hero:
-        title: IP Dispute Resolution in Singapore
-        subtitle: Hero subtitle
+        title: SIPDR
+        subtitle: An Overview of IP Dispute Resolution in Singapore
         background: /images/banner.jpg
         button: FIND OUT MORE
-        url: /contact-us/
+        url: /overview/
         key_highlights:
             - title: Highlight A
               description: Important highlight A is important
@@ -19,7 +19,7 @@ sections:
             - title: Highlight B
               description: Important highlight B is equally important
               url: https://gmail.com
-            - title: Page A
+            - title: Locate an Expert
               description: Page A is important too
               url: /privacy/
     - infobar:
