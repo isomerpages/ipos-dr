@@ -2,8 +2,6 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-
----
 agency_name: Intellectual Property Office of Singapore
 locations:
   - title: Intellectual Property Office of Singapore
@@ -18,11 +16,11 @@ locations:
       - days: New Year's Eve, Chinese New Year's Eve, Christmas Eve:
         time: 8.30am - 1.00pm
   
-  maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+  maps_link: https://www.onemap.sg/main/v2/?lat=1.31767131802136&lng=103.893809329551
 contacts:
   - title: General Enquiries & Feedback
     content:
     - phone: +65 6339 8616
     - email: ipos_enquiry@ipos.gov.sg 
     
-
+---
