@@ -7,15 +7,15 @@
 logo: /images/isomer-logo.svg
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: About
+  - title: About SIPDR
     collection: about
+  - title: Latest in SIPDR
+    resource_room: true
   - title: Resources For Practitioners
     collection: resources-for-practitioners
   - title: Resources For Businesses
     collection: resources-for-businesses
   - title: Opportunities
     collection: opportunities
-  - title: Latest
-    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
