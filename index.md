@@ -22,15 +22,24 @@ sections:
             - title: Locate an Expert
               description: Page A is important too
               url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+    - infopic:
+        title: Resources for Professionals
+        subtitle: 
+        description: I am a Professional looking to keep abreast of IP Dispute Resolution practices in SG
+        button: Learn More
+        url: /core-values/
+        image: /images/professionalism.png
+        alt: Members of the Ministry of ABC in suits
+    - infopic:
+        title: Resources for Businesses
+        subtitle:
+        description: I am a  Business OWner looking to understand how to resolve my IP disputes in SG. 
+        button: Learn More
+        url: /core-values/
+        image: /images/professionalism.png
     - resources:
-        title: Media
-        subtitle: Learn more
+        title: Latest Developments in IP Dispute Resolution 
+        subtitle: View all
         button: View More
 ---
 
