@@ -9,7 +9,7 @@ sections:
     - hero:
         title: IP Dispute Resolution in Singapore
         subtitle: Hero subtitle
-        background: file.go.gov.sg/banner.jpg
+        background: https://file.go.gov.sg/banner.jpg
         button: Contact Us
         url: /contact-us/
         key_highlights:
