@@ -6,7 +6,7 @@
 
 // Agency brand colors
 $primary: #58585B;
-$secondary: #58585B
+$secondary: #58585B;
 $secondary-hover: lighten($secondary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
