@@ -2,6 +2,8 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
+
+---
 agency_name: Intellectual Property Office of Singapore
 locations:
   - title: Intellectual Property Office of Singapore
@@ -23,4 +25,4 @@ contacts:
     - phone: +65 6339 8616
     - email: ipos_enquiry@ipos.gov.sg 
     
----
+
