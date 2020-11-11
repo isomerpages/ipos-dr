@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Intellectual Property Office of Singapore
+agency_name: us
 locations:
   - title: Intellectual Property Office of Singapore
     address:
