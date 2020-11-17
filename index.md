@@ -2,7 +2,7 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
 notification: In view of the nation-wide effort on COVID-19 announced by the government, IPOS has taken steps to protect the well-being of our employees, customers and stakeholders. The latest updates with regard to our services are available here. 
 sections:
