@@ -13,15 +13,15 @@ sections:
         button: FIND OUT MORE
         url: /overview/
         key_highlights:
-            - title: Get Legislation Updates
-              description: Keep abreast of the latest legal developments
-              url: https://google.com
+            - title: Get Free Email Updates
+              description: Subcribe here to stay abreast of latest legal developments
+              url: https://form.gov.sg/5fb35ef7f90f3700116957a8
             - title: Find an Expert
               description: Search the database for various experts  
               url: https://gmail.com
             - title: Book a Legal Clinic
               description: Get preliminary advice from a professional lawyer for better decision-making.
-              url: /privacy/
+              url: /resources-for-businesses/clinic-sessions/
     - resources:
         title: Latest Developments in IP Dispute Resolution 
         subtitle: 
