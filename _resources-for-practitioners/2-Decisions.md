@@ -44,8 +44,6 @@ permalink: /resources-for-practitioners/decision/
 </head>
 <body>
 
-<h2>Decisions</h2>
-
 You can use this tool to search for decisions. <p>
 
 Citation <input type="text" id="myInput1" onkeyup="myFunction1()" placeholder="Search for citation.." title="Type in a citation">
