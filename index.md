@@ -18,7 +18,7 @@ sections:
               url: https://form.gov.sg/5fb35ef7f90f3700116957a8
             - title: Find an Expert
               description: Search the database for various experts  
-              url: https://gmail.com
+              url: /resources-for-businesses/service-provider-directory/
             - title: Book a Legal Clinic
               description: Get preliminary advice from a professional lawyer for better decision-making
               url: /resources-for-businesses/clinic-sessions/
