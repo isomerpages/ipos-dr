@@ -2,6 +2,7 @@
 title: Overview
 permalink: /about/overview/
 ---
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .accordion {
   background-color: #eee;
@@ -41,8 +42,8 @@ permalink: /about/overview/
 }
 </style>
 
-<body>
-Singapore provides one of the world’s most robust regimes for the protection of a company’s intellectual property (IP).
+
+<p>Singapore provides one of the world’s most robust regimes for the protection of a company’s intellectual property (IP).</p>
 <p>International surveys consistently rank Singapore’s Intellectual Property (IP) regime as one of the best in the world. For example, Singapore is ranked second in the world and top in Asia for having the best IP protection in the World Economic Forum’s Global Competitiveness Report. For more information on Singapore’s IP rankings, please click here.</p>
 <p>Singapore’s business-friendly IP regime has helped bolster the confidence of leading global companies such as P&G, Continental, and Mead Johnson, all of whom have selected Singapore as their location of choice for investments in business and R&D, citing the country’s strong protection of IP rights as a factor in their decisions.</p>
 
@@ -80,3 +81,4 @@ for (i = 0; i < acc.length; i++) {
   });
 }
 </script>
+
