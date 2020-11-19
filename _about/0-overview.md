@@ -42,7 +42,6 @@ permalink: /about/overview/
   transition: max-height 0.2s ease-out;
 }
 </style>
-</head>
 <body>
 
 <p>Singapore provides one of the world’s most robust regimes for the protection of a company’s intellectual property (IP).</p>
